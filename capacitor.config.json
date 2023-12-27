@@ -1,0 +1,6 @@
+{
+  "appId": "com.onoffagencia.spacefeed",
+  "appName": "spacefeedBLOG",
+  "webDir": "www",
+  "bundledWebRuntime": true
+}
